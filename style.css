@@ -1,0 +1,136 @@
+.jia{
+
+    background-color: rgb(247, 246, 246);
+    width: 100%;
+    height: 80px;
+}
+.shayan{
+    /* background-color: black; */
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 200px;
+    margin-top: 20px;
+}
+.shayan>img{
+   
+    width: 75px;
+    height: 25px;
+}
+
+.ahmed{
+    text-align: center !important;
+    padding: 20px;
+    /* background-color: blueviolet; */
+    /* width: 50%; */
+    position: absolute;
+    right: 450px;
+}
+
+.jia>.boo{
+    background-color: #1fd11f;
+    border-color: #1fd11f;
+   margin-top: 20px;
+    position: absolute;
+    right: 350px;
+}
+.a{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100vh;
+}
+.one {
+    font-size: 20px;
+    width: 500px;
+  padding: 80px 70px 0px;
+}
+.one>p{
+    margin-top: 20px;
+}
+/* .c{
+    width: 500px;
+    padding: 60px;
+    padding: 10px 70px 0px;
+} */
+.one>button{
+    margin-top: 40px;
+}
+.two>img{
+    height: 450px;
+}
+.three{
+    height: 80px;
+    background-color: #1fd11f;
+    border-radius: 4px;
+}
+.four{
+    padding: 100px 100px;
+}
+.four>h2{
+    text-align: center;
+}
+.four>h2>span{
+    color: green;
+
+}
+.seven{
+    margin-top: 30px;
+}
+.eight>p{
+    margin-left: 20px;
+}
+.nine{
+    margin-top: 30px;
+}
+.ten>img{
+object-fit: fill;
+}
+.twelve{
+    border-radius: 5px;
+    /* align-items:center; */
+    background-color: #e7ece7;
+    margin-top: 30px;
+    
+}
+.ee>span{
+    font-size: 30px;
+    font-weight: bold;
+}
+.dd{
+    margin-top: 40px;
+    background-color: #e7ece7;
+    border-radius: 5px;
+}
+.ff>span{
+    font-size: 30px;
+    font-weight: bold;
+}
+.gg{
+    margin-top: 40px;
+    background-color: #e7ece7;
+    border-radius: 5px;
+}
+.h>span{
+    font-size: 30px;
+    font-weight: bold;
+}
+.ii{
+    margin-top: 40px;
+    background-color: #e7e7e7;
+    border-radius: 5px;
+}
+.h3{
+    font-size: 10px;
+}
+.jadu{
+    background-color: rgb(229, 230, 229);
+}
+ 
+.jani{
+  word-spacing: 40px;
+    display: flex;
+}
+.jani>p{ 
+    padding: 0px 10px;
+}
+  
